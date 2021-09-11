@@ -1,0 +1,22 @@
+{
+  "name": "helloworldserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virtual-Crash/HelloWorldServer.git"
+  },
+  "author": "Kayla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virtual-Crash/HelloWorldServer/issues"
+  },
+  "homepage": "https://github.com/Virtual-Crash/HelloWorldServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
